@@ -1,3 +1,3 @@
 # Unity3D WebView Demo
 
-![demo](Demos/demo.gif)
+<img src="Demos/demo.gif" width="380" height="800"/>
